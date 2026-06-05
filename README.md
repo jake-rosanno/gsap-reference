@@ -7,7 +7,8 @@ Each snippet is self-contained, annotated, and ready to adapt.
 
 ```
 snippets/
-└── dropdown-stagger.js
+├── dropdown-stagger.js
+└── scroll-reveal.js
 ```
 
 ## Usage
@@ -20,3 +21,4 @@ Copy the snippet, drop it after your GSAP script tag, and tune the values to fit
 | File | Description |
 |------|-------------|
 | `dropdown-stagger.js` | Stagger reveal animation for Webflow dropdown list items on open |
+| `scroll-reveal.js` | Scroll-triggered stagger reveal system using `[data-reveal]` attributes |
